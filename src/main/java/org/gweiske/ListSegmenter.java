@@ -1,4 +1,4 @@
-package org.gcweiske;
+package org.gweiske;
 
 import java.time.LocalDate;
 import java.util.HashMap;
